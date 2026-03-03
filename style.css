@@ -8,3 +8,8 @@ body{
     border-style: solid;
     border-color: black;
 }
+
+.text-box:hover{
+    border-color:aqua;
+    background-color:grey;
+}
