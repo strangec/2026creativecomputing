@@ -13,5 +13,5 @@ body{
 .text-box:hover{
     border-color:aqua;
     background-color:grey;
-    font-color: white;
+    color: white;
 }
