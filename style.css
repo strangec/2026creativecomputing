@@ -1,4 +1,9 @@
 body{
     font-family:'Courier New', Courier, monospace;
-    color:'burgundy';
+    color: #800020;
+}
+.text-box{
+    padding:30px;
+    border-style: solid;
+    border-color: black;
 }
